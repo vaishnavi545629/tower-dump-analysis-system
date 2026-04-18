@@ -1,0 +1,3905 @@
+{
+  "users": [
+    {
+      "uid": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "createdAt": "2026-03-30T07:41:37.419Z"
+    },
+    {
+      "uid": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "createdAt": "2026-03-30T08:22:43.028Z"
+    }
+  ],
+  "datasets": [
+    {
+      "id": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "name": "small",
+      "fileName": "tower_dump_small_dataset.xlsx",
+      "uploadedBy": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "uploadedByEmail": "patilastha1104@gmail.com",
+      "uploadedAt": "2026-03-29T15:22:27.817Z",
+      "status": "active",
+      "totalRecords": 108,
+      "validRecords": 108,
+      "invalidRecords": 0,
+      "duplicatesRemoved": 0
+    }
+  ],
+  "tower_records": [
+    {
+      "id": "fe0cecb5-3312-46f5-af0f-83e7f26348b1",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2ef8026689d0b05df202c3782a9f4886:8cfa81c680500d061e7028a1df39ee27:22615b5ee5f66b41067c",
+      "mobileMasked": "XXXXXX9732",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:54:00",
+      "recordHash": "b50227b0eb9a4a378b337d7405b0455122c42d8c6e111df0a39debd942945d1d",
+      "suspicious": false
+    },
+    {
+      "id": "25557adf-5450-47fb-8174-6d2094b372eb",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a63f56e7b89aa2e4c7fc6bcebfbcfd73:0da697f84e68e434130ec36c214f0551:e3e42ed2e6c92490ae87",
+      "mobileMasked": "XXXXXX1171",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:54:00",
+      "recordHash": "236bd63f66569e9917fdc7de294e83032e38354f3e286ce907e901316510f360",
+      "suspicious": false
+    },
+    {
+      "id": "7e4840ec-c3a1-4dcd-82e0-f59191fea3fc",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "9a86f371890d1282c4e75f83dbeb7d72:cd9f2581566080f59abfdd8fef4cec1f:3c60b868ac0ccb6fc95a",
+      "mobileMasked": "XXXXXX9989",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 11:59:00",
+      "recordHash": "8fa619e71ef642576392bc2196102fb722c6d03f53ad3dde12da000a98cc8e71",
+      "suspicious": false
+    },
+    {
+      "id": "f5e31233-6add-4dec-be13-95a91e26c96b",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "802ebd97d22de4600cc1db7830b7936b:88d6806d4f2caab4567f34b56501b94f:b9da113546779a343f5b",
+      "mobileMasked": "XXXXXX9103",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:25:00",
+      "recordHash": "ce0d878e12cbb8d6b0c6ba18f376d0619f0536e447ef38d5601324527e288252",
+      "suspicious": false
+    },
+    {
+      "id": "fbc3bb65-ec1a-4b3b-8634-af40d5fcb17e",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "3eeecc791053b53827de7a65f438f036:cdb8a87a9bb125a4c651bc9c04514d7f:df5904e156db58ee06bd",
+      "mobileMasked": "XXXXXX1053",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 12:59:00",
+      "recordHash": "11b5299ba689012f598ea0d9a40313dc461535d1cd9f20372b7acac82864cfba",
+      "suspicious": false
+    },
+    {
+      "id": "1b234c6d-0b4d-4569-b6d3-0c762ace6a46",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2477fa3a26c5738e642086a54a8b73ce:78039b4441a94943a76cb2ad96bc9e48:0f460754b39c4e05d257",
+      "mobileMasked": "XXXXXX5999",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:46:00",
+      "recordHash": "d63eee61f12bb863a816cee282560243cf851e66a8bc534bfe16bb3e3a7a47ef",
+      "suspicious": false
+    },
+    {
+      "id": "9428b13e-92d0-4fab-9df1-3f83fe8efe93",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "e393dfa06a775ac7be00690c05ad8cf9:35bb5990cd545299b13cfa7301d7f488:c4a6f2d5729b384f14c8",
+      "mobileMasked": "XXXXXX4639",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 12:16:00",
+      "recordHash": "39bcf57f2a33f9389e8594ee3e0ba7ff8b410d30cbbfb3e0764f64690292e4b3",
+      "suspicious": false
+    },
+    {
+      "id": "faa54c98-7d83-47a6-b946-7bf18cf2be09",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "fbeeea265b689cf8a4f3b0a57ae3af46:220407b7229ca2332f14fdeb32c07b8c:45e09c38dd9c5f613cf2",
+      "mobileMasked": "XXXXXX0676",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 11:05:00",
+      "recordHash": "d4c3dfa0be3f0e47b5d90309019a8130fd94c4bfd8e926760fcc845c750e3439",
+      "suspicious": false
+    },
+    {
+      "id": "0760520c-ed5e-41ad-8787-1ab27fe0eeb8",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "345c9f65f2243ba3a4cb7b23f8feba8a:e17f687a3a52bbb8c3ab2a40c9783705:fa117aa74440d9e13de4",
+      "mobileMasked": "XXXXXX7917",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:41:00",
+      "recordHash": "6f66f3d16635d267481bfbfce006979b86739cae45107c8ad69fed5f52d10719",
+      "suspicious": false
+    },
+    {
+      "id": "d0c5cb5f-9eda-44cc-8e34-78335c858662",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "c220b92cbfb624a2b4a2c8fbbd5d1f98:adf5bd6e005d82ba4ed88cc922a7cd10:7ee5412fae0eb928b531",
+      "mobileMasked": "XXXXXX8242",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 14:15:00",
+      "recordHash": "113d87a77af51c3f0f6a2bba2739372a1bdfe442ea4f01f3ffe74f9cfcd427f0",
+      "suspicious": false
+    },
+    {
+      "id": "6c84932f-bde4-4001-b728-a1d7b4f85b32",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "af7c810487dd8d2bcde29bb72f15654e:6bd6f602151903b29ec617fb5e28e050:5f00697c3e75cd5aa551",
+      "mobileMasked": "XXXXXX0651",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:03:00",
+      "recordHash": "a6e56f9ac03c9413855d22edb99dd8db4f6ae1f51c628c82c014cba1492a8687",
+      "suspicious": false
+    },
+    {
+      "id": "a712b202-64b2-45b4-8a18-36f477192fe4",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "bb54b1e4a9ca3df94cc9ed9e9e53d69d:687707043a364b243e803f6a9b60abb8:796a206c63d265e55942",
+      "mobileMasked": "XXXXXX4768",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:03:00",
+      "recordHash": "055c147c758efaf773de31f1103640c35feae2a85312aef599e707e6e181238d",
+      "suspicious": false
+    },
+    {
+      "id": "399610d6-b35b-4e81-bd2b-29ce710e8f36",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "3a4b0a961f6aa6dcf6f19af9ba2828a1:51ac759704c5d3f268c209cb755fb1a3:0b5c919e16660a73eb7c",
+      "mobileMasked": "XXXXXX5282",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 11:57:00",
+      "recordHash": "823307d2eafe37927ff40feba6d79553eaf7c38d31a17d2ca79290a4f97b5180",
+      "suspicious": false
+    },
+    {
+      "id": "ff76cf87-6ed6-4d11-b8a1-d7c8dbde2d44",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "0674cd3e669af22614203c1059a68ab8:a81413dd7e88907a79580f1780f81f13:bc326b818551e0a4f5df",
+      "mobileMasked": "XXXXXX8032",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:47:00",
+      "recordHash": "bc49b7caa269a3ab7c12766e633d597ad391a538ffd91b1eb127d958b3615a56",
+      "suspicious": false
+    },
+    {
+      "id": "49731fc1-4d85-4640-bedc-829038595c82",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "488a82bc4035f2734425d6d3ebb99ba0:7314fd18744bb768a4d93acbbf3f0115:99d3949b696501124afe",
+      "mobileMasked": "XXXXXX7519",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 10:23:00",
+      "recordHash": "2ce5527f22e9d29ce7c8921838a91c3ad551c8ce9b5a0c493c297b1bab190a7b",
+      "suspicious": false
+    },
+    {
+      "id": "b236e5d9-9d4c-4d3d-a50c-14077855c8e6",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "37962559647972c90979cf868f05f288:a60cf163c8ad8eb713f81b5c14e9d8c3:ac5564c8ffcb3f28760d",
+      "mobileMasked": "XXXXXX9462",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 10:57:00",
+      "recordHash": "37cc9f1000b48966541373cbb6c728b49c2d31a8b732440037e9e3c261d043d5",
+      "suspicious": false
+    },
+    {
+      "id": "db5a2efb-70a2-4756-98c7-9e6989592708",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "b77aa80aa224c416302c3e228d3fddad:f02e8e93dd0cea49ea71a13df9fbd08d:b2ba9c6935767e904c93",
+      "mobileMasked": "XXXXXX5287",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:11:00",
+      "recordHash": "f2a39bb37f8b80cfc2d050b6e2d02b2cd33b5bcc98f5b9617b8f153894bcb063",
+      "suspicious": false
+    },
+    {
+      "id": "35f85773-a88d-4003-98cc-40b85c814900",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ae2b80854e723899ee6becbb1e67f5bf:2c4ce4f31eeac0d7fbe53652fe094dc0:353155417b3f3ce523ff",
+      "mobileMasked": "XXXXXX7229",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:22:00",
+      "recordHash": "b36159bb0e9b98a8d351fdc3bac8821fff037bb07b757338a198edfe8464be93",
+      "suspicious": false
+    },
+    {
+      "id": "75dec2a7-7bfa-4e71-96ec-e93c6ca69150",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "4075cc683a84ca2df7c65bdd100d010e:705b2c41260ec28776745833812af7ef:e587862c3eaeab208f7a",
+      "mobileMasked": "XXXXXX6034",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:20:00",
+      "recordHash": "c258fd27ac98181247170d38f3dcf12193101f58b9addb3d6e9b7761549ca8ef",
+      "suspicious": false
+    },
+    {
+      "id": "37250557-6b1e-4a00-a415-5806b182d100",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "e47881cf3cabb9504ffc6441f6146de0:621ef76b9bc31a9b103764244ee4a273:f376633f1cc9841c26f4",
+      "mobileMasked": "XXXXXX7918",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:11:00",
+      "recordHash": "f1b28244e30a0e8e5642a549e8401bc3b017216711c3f5608a66e39b4daf5c5e",
+      "suspicious": false
+    },
+    {
+      "id": "7158d3a1-36d3-497c-a5ee-171e65a42059",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "0b944586446fbc376b4987475185c655:1ad6edba4adebf1f989636cedd37fd7b:7dcefe933980770e2c18",
+      "mobileMasked": "XXXXXX4663",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 13:42:00",
+      "recordHash": "b8ed90c5015c09d1d03847e5d6c3f1cc3cb980ed2747ac4447d16d546687a2e3",
+      "suspicious": false
+    },
+    {
+      "id": "e45f16ac-0f9e-471e-a3eb-6585decaf2ce",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5814e86821a4bacca1f7b26a3e06979a:0105bde31696ba6dde631f0232337da8:a672f221eaad0f39fc78",
+      "mobileMasked": "XXXXXX4741",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:45:00",
+      "recordHash": "9a1e6ee28333acde248bd1d3c5f5090ef3c859811f64f8579af3c28582b7da05",
+      "suspicious": false
+    },
+    {
+      "id": "9ea1e5c8-722e-4a4c-bc95-727313862710",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a1bc5507691b82f58b8aab626fc61759:53b332b8e83a63d37c32ac7557d1d476:bbe0f94719e26f68ea9c",
+      "mobileMasked": "XXXXXX3315",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 14:08:00",
+      "recordHash": "793b70dea4cb607da7530a9457f748ff4b56cdf4e57df2045320e9e39e6215b4",
+      "suspicious": false
+    },
+    {
+      "id": "44c3c269-5942-4549-b59a-34e0cf26098a",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "996a663ec4fc0bc7eb2dc3c6c63c0ea6:09de85bc3bb57f12ba0a0dd4190c69bd:83b4444c0f6c765c754b",
+      "mobileMasked": "XXXXXX4697",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 12:02:00",
+      "recordHash": "9c8c0b0a1fafaaed6b1fd06afe91c7850ca4e3d66eefbd2891e9cf2863fd7b61",
+      "suspicious": false
+    },
+    {
+      "id": "d8feb214-075e-4952-829c-676c4fb88de5",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ab4dab3e241eacbeedf349e6e6072386:19eef0e8fda1c34a715a4a66e97870e0:369705f65d45cd6b3c6a",
+      "mobileMasked": "XXXXXX1726",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:45:00",
+      "recordHash": "fa13819df595d61c7e65aae33308e26a85fce5010928f8ba8def81b991bdb7b9",
+      "suspicious": false
+    },
+    {
+      "id": "2b7f1314-3ab5-477b-821f-ac2b641a967c",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ae5a7900757b66d0254c019cb539b5f7:6b03cce0df1ef44d79706263667255f1:065fcf6cc1092e673098",
+      "mobileMasked": "XXXXXX3406",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 12:03:00",
+      "recordHash": "1ad6ffa1e6db039efc6347511959130ef3934b9401a9ce3f3a059b638f73c451",
+      "suspicious": false
+    },
+    {
+      "id": "9971be5c-7618-4ba0-a297-e45847737b99",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "993d22ca717f3b9baf7612c563a464a1:383baa6c0a4af061b3aaf457bf607eeb:a70bdde86b8c614714e3",
+      "mobileMasked": "XXXXXX3918",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 13:17:00",
+      "recordHash": "7f893b0c2b041485026bfc2d87baa838df222a7c7c5cf740a5bb1032e731f021",
+      "suspicious": false
+    },
+    {
+      "id": "97610b52-3445-43cd-ae98-a8de03be2e84",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a561c74d988ea2dc0bc58868fd95a8d5:f8bee8a97a27e746fe2d8b9aa501ab55:8f036e78bb5fefc432a1",
+      "mobileMasked": "XXXXXX7391",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 13:45:00",
+      "recordHash": "3fe2fb1b4bc2f76e5269a1e12dc5ff5b16705f876afb6e81ff3be4a51068cc35",
+      "suspicious": false
+    },
+    {
+      "id": "10d0c39d-b32b-4b1b-8ff8-d795f9445364",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "f0f244edf24cf09a53f948c1d4f912ca:d9d3beaa0863ef727863990ce8a3cc8a:7ec3f95353d850736ec3",
+      "mobileMasked": "XXXXXX9350",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 14:17:00",
+      "recordHash": "fa5fcdfc76d0c2356679df883f12f48f390559b9819a2db4ad22fac18ac1ed7b",
+      "suspicious": false
+    },
+    {
+      "id": "54c06242-7b7f-411f-bae4-4f57d679018b",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "d6d48515251729da187de20ef09ff55d:181cbf7c3f928307eb8b9b2cbd2c102c:8e55943be486b41c8275",
+      "mobileMasked": "XXXXXX2701",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:51:00",
+      "recordHash": "8262c1bb3d61cf70c8ebb95c8dba089a7fd1d59ed81f595893be71487096904c",
+      "suspicious": false
+    },
+    {
+      "id": "147cf933-571b-44de-acb0-b1aa745b782a",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "8852459e6fcb8cdf7045349a989544a8:5839c2fad7191d29872178367eb5a00a:476601451189324762e2",
+      "mobileMasked": "XXXXXX9194",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 12:47:00",
+      "recordHash": "a33a5dfc8baed0b837849ca894a5cdc7ab984a58d6df7659ef5ed06661ca016f",
+      "suspicious": false
+    },
+    {
+      "id": "0d8a9fee-1339-40bc-a853-4db0b13754ad",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ffbb9ea979626412958a8fcae2138a53:11338b724f846ceafbcec9abe54a81e9:9d54e64970675a48f88b",
+      "mobileMasked": "XXXXXX2942",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:14:00",
+      "recordHash": "dd2310162665282242d91bf5ebe2096e3b90bca380cf36fd43e5aab4a5bf44a5",
+      "suspicious": false
+    },
+    {
+      "id": "7b0e5148-2dea-449d-837d-7bc610b98a67",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "9cf8710da8f9fb30160fbf4cf08ccdbb:29c073e156ebb93d7835f4eb19ccacf1:01c6e87ee83395747f6a",
+      "mobileMasked": "XXXXXX3628",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 11:20:00",
+      "recordHash": "f4c2a0bc2e7eab0d830782e521269631d9bed3fa0d3fad163490ab81bd0aff9d",
+      "suspicious": false
+    },
+    {
+      "id": "5ab6d647-db91-4c9a-af16-d79d9f6de896",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "8edbdbe9a3dd48a1931c15adee1837f4:87b86673482c254143737363bcc64d72:035f9edca336c8bbcbda",
+      "mobileMasked": "XXXXXX9865",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:44:00",
+      "recordHash": "b101d10b526688b43c8345df9ff8225973a74ce7f8b4bd84b86bcb613b2402bb",
+      "suspicious": false
+    },
+    {
+      "id": "f006bfac-de19-49fa-8586-f3c904a93e9d",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "33798dfc3afba8dda6d7fdbda42e4c2b:479e0e76d452f15c60334768292ae08d:ecd71f44b21daf437fef",
+      "mobileMasked": "XXXXXX4471",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 12:25:00",
+      "recordHash": "3e332d556bd16fbac3bdb3b301ecb78bb648669491aec1caa13578ef6b115b41",
+      "suspicious": false
+    },
+    {
+      "id": "103acda9-9d4b-4bea-889a-4a5a16c3373e",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "33e6cabe563ce4bcbe349c4be1e418ed:faf77de553b26d4318ecca292d8f1f30:08929b1f4cd1542576cc",
+      "mobileMasked": "XXXXXX9385",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 13:27:00",
+      "recordHash": "fe89cdcf5ddfd0a8fbe9782d83c544c88677b8fd592a9f812904d3ee5941ceb1",
+      "suspicious": false
+    },
+    {
+      "id": "66d2462a-69cc-49db-b4b4-a21e8ae198bc",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "83942fe0ae507fc3d24471f245a839b6:c70574402be008d9201709c09e4b393c:cfaf4c6661b3af2de7ce",
+      "mobileMasked": "XXXXXX9060",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:21:00",
+      "recordHash": "66011cc0dfe8dd284183e84cc519bb4a07efcbba7ed33c8bf87423591c92e7f5",
+      "suspicious": false
+    },
+    {
+      "id": "bbd0f174-8f1e-4455-9062-756d72ce78d8",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2b32afb3f66c5092fde54e64ff5e47f4:8a4680e29e117339517fb1a48fa71396:e24462c188caa4d56250",
+      "mobileMasked": "XXXXXX8466",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:52:00",
+      "recordHash": "126bcf47a447b502c62f10b64954f0b688cf25f19af5072810d4da902b66e846",
+      "suspicious": false
+    },
+    {
+      "id": "df8a4538-609a-4855-aeda-4757cae0a267",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "b594cfea310f28cc17874c3bcfe71b09:2c2dde1a7805249402e6a79d4e5fb45d:a8d620ff2a2e9b8a8d0b",
+      "mobileMasked": "XXXXXX8581",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:45:00",
+      "recordHash": "f27a30bbcf616367cd4538fce0b1a36731bf01fb33433e901e40e54b37ee7f22",
+      "suspicious": false
+    },
+    {
+      "id": "ba7175bd-a1f3-42b6-88aa-ad82f1c650ab",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ea5f09ddb60e5b51ccf7295ea825eeb4:23f06648e21eb6cb6f14401b1e20ff10:3545791c98244ed7358e",
+      "mobileMasked": "XXXXXX7138",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 12:43:00",
+      "recordHash": "214212d08bac3990e32feaf5812ef290bffaa238fd34f4e395e42958013c6d01",
+      "suspicious": false
+    },
+    {
+      "id": "04aca8b1-0150-4a3c-a57e-84bb053f7545",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "e0e65a088504185f02ef23ee94472286:397a3091ad2ab2fd892029df71ec8ce1:8b5848be78b13ddb7a4d",
+      "mobileMasked": "XXXXXX9894",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:57:00",
+      "recordHash": "bc39a0aca2c2d0ef095ae919985ef51e6a3534faa329fde86d9b7a50aa066e6e",
+      "suspicious": false
+    },
+    {
+      "id": "6e94ad9f-a3c7-42d9-9173-ff732e179077",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "f54df437333e94082b0a66d1e8e24bb6:596f95c5077683de119132bc617e7802:cbb9a5d95883c3ad2f76",
+      "mobileMasked": "XXXXXX9836",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:06:00",
+      "recordHash": "42d1b8bf4c08a8d06c45a3f51d401009d6cba0c080381517801760ea3b7beeb2",
+      "suspicious": false
+    },
+    {
+      "id": "78057875-1aeb-4906-84af-0555cfe7a346",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "6115404ef5c1ffff23183f0e2d1b887f:2e2ab2c0beb7e0935b3b1d5105690031:e9c3803573d8b1ae2b85",
+      "mobileMasked": "XXXXXX3464",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:01:00",
+      "recordHash": "c960958221b8169a32f72deb5d3d356018eefc6d85e6b9176063cea2d51135e1",
+      "suspicious": false
+    },
+    {
+      "id": "d2f2d0d0-2a80-4b2c-bb5f-32c9d4f09eec",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "261a8c0f15209186a90134dbfbf80b09:92445c70088b782ba2443fba2f82c34e:d7f86f1708c7444f03d0",
+      "mobileMasked": "XXXXXX6551",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:20:00",
+      "recordHash": "18e4499a5acc695fb13dec06a08d201a8ea25680b91a719698ed7dab6e3b1961",
+      "suspicious": false
+    },
+    {
+      "id": "737dcb5a-7f9c-4219-8e98-09fb4ee1cef2",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "dcbeedbe3921a1365fe2ffc00ce01294:41e47b2db3a8ea27eca0ce75e02ad43a:554e6abc4c7b33ba177c",
+      "mobileMasked": "XXXXXX9291",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 11:20:00",
+      "recordHash": "a948546303b21618fa0c7249b087b4e4f15a53d40dee452b0970033e7883e335",
+      "suspicious": false
+    },
+    {
+      "id": "bd67dd9b-21a7-48e5-a108-53bfe434f1fc",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "21db9f4fd798bc11a03244282ed3d51c:d22e0815c1a7a65f2410e07f75720a8f:4e3a3adb37eea5784871",
+      "mobileMasked": "XXXXXX6743",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:14:00",
+      "recordHash": "afa200f9b8ea3f60d53fe3b2e8759d65f37c70c6bdc4082db64074d521e794b0",
+      "suspicious": false
+    },
+    {
+      "id": "83ecc635-7836-46b6-9a83-8d2318848a85",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "83f89ab08a0c25bf9091fe083df1e2a0:0b94c8e26f413c79d23676c36e01c38e:a9dbab43da06de1681fb",
+      "mobileMasked": "XXXXXX9280",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 13:31:00",
+      "recordHash": "b35d9e138ed740f8c09d16f4a06b86afc48efe849ad709aaf584c2312a0a409d",
+      "suspicious": false
+    },
+    {
+      "id": "6a3a79a5-06be-4c70-858b-a8ed1bf4ca57",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5db4cb66184ac4d7d4931717faafbd3b:88db9a6a74521c14826b6c094daddc5a:779620b9fd3e967de48c",
+      "mobileMasked": "XXXXXX3053",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:37:00",
+      "recordHash": "816d5227912f3d9ef158195d30c6db7abc86cb7b90cae90167f5d1f19a0082bf",
+      "suspicious": false
+    },
+    {
+      "id": "6e70c69a-fe91-42fb-8cdb-a8a901813582",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "bb7f796d5d043086bbbe1ff7acba9ba0:d4ca42a580beaba3c4974f13aa34649e:ffc05de8959cdaa87aff",
+      "mobileMasked": "XXXXXX3486",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:45:00",
+      "recordHash": "1ba3b8b2c4ba072389f4d23015cb4e155c73fb43299a5f5248d941736cb1367b",
+      "suspicious": false
+    },
+    {
+      "id": "39e1eafe-2577-4d37-a02b-d58b9000e4b1",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "75a30ffdf430ee23031a8b2b06ba5773:2bc58d7f3f1a2bea108754f6faa3ac8c:231e2cf5fbc902734db5",
+      "mobileMasked": "XXXXXX4523",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 10:12:00",
+      "recordHash": "0ac16e2ab50eed66562eaba29381aa87aa8457bbc65383ece51f31721c337a60",
+      "suspicious": false
+    },
+    {
+      "id": "0bf6af91-04b3-4ed4-8c7d-ab80dcd8e41e",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2fba33cd89e5ff19eb1b5182646781b2:f11caacefec002f03925e94ddb31e6e8:2387c1e4ea54a877a821",
+      "mobileMasked": "XXXXXX6950",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:04:00",
+      "recordHash": "a92abf9b1b304f7289a3d323476485befb9724c23aa7a47937c9466c5534218f",
+      "suspicious": false
+    },
+    {
+      "id": "17f5a49a-c4ff-45a7-9909-1594136bcc39",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "cce3899c319718a7ee607316438ed376:2a57bdf4f341d1badc868bfb70e8c060:ae17baceea0bd45bd394",
+      "mobileMasked": "XXXXXX6580",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:29:00",
+      "recordHash": "1086b946f5a91e842ee69595eedeb63cfc710916a0d523b0be220391c60a163c",
+      "suspicious": false
+    },
+    {
+      "id": "9a1295bc-9951-407a-8d9d-999e19451a10",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5d5c0249b2bda748d586d10c96a9daa5:4eaf06d06aec4f3e08c5eb3790b7f34a:f99073d1803da2993d6e",
+      "mobileMasked": "XXXXXX1061",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 11:28:00",
+      "recordHash": "ba0fe945cd608be80fe73ec0cbaa11ceb20c1000590d467d16ef5bb5cfdc90dc",
+      "suspicious": false
+    },
+    {
+      "id": "f51b6f74-e9ff-4fa7-984c-7f00af7aac54",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "80f503e8bf9a8050ee7cf966f84f9328:b5042ece40964987313c81282681371b:4a34e9a8cb6674fee581",
+      "mobileMasked": "XXXXXX6190",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:34:00",
+      "recordHash": "f015a84fb5136c616d013c9b9471ec30d4c3d1cd8be7f66b6a3248698e171760",
+      "suspicious": false
+    },
+    {
+      "id": "8c7c5aa9-5806-430a-8ccf-a8a1bf57e4d9",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5256254fe6076c16b63f326c69e626e2:5256155196508339a4a92ac783877f87:3481780164871709cba0",
+      "mobileMasked": "XXXXXX6569",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 12:17:00",
+      "recordHash": "940df88b62d9d9cb53eadd6c1dba6af0882dada1a993cd44dfde34a90fa02a1e",
+      "suspicious": false
+    },
+    {
+      "id": "4445a7a1-a37e-485a-8c11-e78d6307df34",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "eba2bd91efe85714539864ee46b6c3ce:39a5d0f0dbd92b9d072ac568c2ae6296:47aa680b30f8c1f29a71",
+      "mobileMasked": "XXXXXX2079",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 12:40:00",
+      "recordHash": "4657565653a9eddfbc3516b7625300109ba1fd2adde6b5ce903c29cf54bf561d",
+      "suspicious": false
+    },
+    {
+      "id": "322c8e70-4c8d-46fb-aee5-8d0f52dd64d3",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "510ed4864d7a57323d8191461f289d75:3614ef744cdfed5b40c3f8bd0ff41d36:32d5c4ef2ac29f1ebdf8",
+      "mobileMasked": "XXXXXX9742",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 11:16:00",
+      "recordHash": "4f53c2f582588cbba66d8e5b45ab153eec427746a3f0910e7049a5c9f073fd4f",
+      "suspicious": false
+    },
+    {
+      "id": "8e4df768-a69f-472b-bb21-e23db1200698",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "188e7b35d91a24d4c172501f65c67636:75f9e77cc8debd13e29c1ea254c4b952:6d07086ea455fa9517e5",
+      "mobileMasked": "XXXXXX4709",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:14:00",
+      "recordHash": "e1b8a368ce5abaa6700f0c02ac5ea2d458b40867aa66b6f680d144ef9bd0ae06",
+      "suspicious": false
+    },
+    {
+      "id": "7971e1cb-15e1-41ec-8999-17a472d0d653",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "01ebb3c6b96ded6b3d8da85b01fa8e29:d50eb9d8020e683f3a93311044c3beb2:6d7e2d13077e7b93e7f0",
+      "mobileMasked": "XXXXXX9597",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:39:00",
+      "recordHash": "81237ef4ece37478b5e147ce5c071c7e715b7d5d39d8834d44d5386d214ed906",
+      "suspicious": false
+    },
+    {
+      "id": "d722e8fc-3625-4ee2-b25c-837e74d07492",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "dbf98de5439be68bc0fff2a1040b11ad:013246b0a018da4738f423ed3dc4d1af:8ed9aea1400d8e345916",
+      "mobileMasked": "XXXXXX7806",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:22:00",
+      "recordHash": "995e883f046448f8d9965d8b1abdf34afd172eb27166f0bd134e77bb7826566d",
+      "suspicious": false
+    },
+    {
+      "id": "7b663e7c-d05e-447c-ae24-d3e0e39785b9",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "bd84c603f01ef6414fd9ee6bc87fb895:55118b9a4c37ef5a9d9d77deae127e99:866e5c54bc11b227528d",
+      "mobileMasked": "XXXXXX0780",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:24:00",
+      "recordHash": "5cdf37f626fe7a894fb0ad7c53abd92d33750450a46cfb06d5b254961a306345",
+      "suspicious": false
+    },
+    {
+      "id": "574c623d-269a-4895-b109-6476c82ebf14",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "cc732d781f7e91cc826d7cc830efab2c:ac7125f237dd9279ee1bbd2608f6ba20:5ff9aa95014630a7b9d4",
+      "mobileMasked": "XXXXXX6301",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 13:54:00",
+      "recordHash": "a9ba0f9c078bde908349886435bcafecc3c36882c97bebce211bafc2af4edc9b",
+      "suspicious": false
+    },
+    {
+      "id": "458ff2ef-b288-490e-8ef1-22e551719a82",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "f70b0b6064d3416cb99d1c0580863036:0df4d2eb22b8cc5637d90456b8ef5ca6:2a21bb3e29919ecd4f9f",
+      "mobileMasked": "XXXXXX4935",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 12:44:00",
+      "recordHash": "bb99f3b74d34311e3f7688f8f9e24d5cbced54b0a754ad65eda206ce1b88f2f4",
+      "suspicious": false
+    },
+    {
+      "id": "52272b10-6a5a-42da-bf62-c7ea9f1372e6",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "c1d80f579b12333e9c072b832bf1f4c5:174c65122dfa82d6a843a76ae60cccd6:8a46962572b8fa86cde8",
+      "mobileMasked": "XXXXXX2888",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:34:00",
+      "recordHash": "8f0514b90c75732cbb78ab0a1ba8a69973d1edf81d2dcc36946bb17b57b86232",
+      "suspicious": false
+    },
+    {
+      "id": "926290a5-016c-4d7f-9edb-7003611444f9",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "634b58333e874d4fb184c345348dc214:f26dc1f47b1530332daa73a56907cfac:e438f41f31039cac0fc3",
+      "mobileMasked": "XXXXXX7200",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:28:00",
+      "recordHash": "994999368ef6387a9aa0509e760bec2101bb8725b231eb0fdd68c241f97dd0bf",
+      "suspicious": false
+    },
+    {
+      "id": "ed245d04-4ad7-42d1-b76c-603ff2193958",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "1e155060dbcb5a64bc05b9deeb0ac14d:374c2d9e7aa75b0399f6fb04444775ad:0d4db3c863eb31e5ca24",
+      "mobileMasked": "XXXXXX5130",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:51:00",
+      "recordHash": "b968200a3bc2d2fbf74989f9607fc0431db142d6dd8027d33f047e1ea08d14da",
+      "suspicious": false
+    },
+    {
+      "id": "a62c7850-bae9-4aac-bfa3-56b764b2bdb6",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "8fad5dd85d9cdf7bfcf5bb31dc126e4a:be067ec0e59a1d3347eec52d06575f0c:92909fbdbfecff37e497",
+      "mobileMasked": "XXXXXX1597",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:46:00",
+      "recordHash": "b6419e77c011b71d099cc8ce9a752902319b2542eb275f8dadc20aec53c63f24",
+      "suspicious": false
+    },
+    {
+      "id": "ad45f4d4-a384-4d71-83ff-4726a6227b0e",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "1664f3e1343daa7f4e4cde890f397c85:4fff2ea3c9e514bad3150ff481cdcd85:b9d2795ff04b00507523",
+      "mobileMasked": "XXXXXX9124",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:52:00",
+      "recordHash": "0dc5053efcd750418a9c15ced9ec037ac2e0fe0aeb73fe3aca6aeb8cb6c08ce5",
+      "suspicious": false
+    },
+    {
+      "id": "2edf7fad-876e-42ad-a8b7-22c2ec0e4b56",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "cc9005992dcaf5c5d54526764552e706:65057680fb9a137896d2dad31c331062:cb457851844e2f235807",
+      "mobileMasked": "XXXXXX4105",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:23:00",
+      "recordHash": "1925a3fbd3ffa42088d26cfe44b3d71823cd42e3b7a3696ea90408d154dfca84",
+      "suspicious": false
+    },
+    {
+      "id": "a4399fe1-bb15-40b5-b41d-5e8d53eb4a20",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5b5667cd40ce2619855523dbef81891a:7d054b8d67e69195b9f9c1034b7e60b9:dea31774658af946ba68",
+      "mobileMasked": "XXXXXX9742",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 11:53:00",
+      "recordHash": "c02d3098273ef85c98e60a07124c5d177c281cec1cbf71d8870818d9b53cd274",
+      "suspicious": false
+    },
+    {
+      "id": "78d28641-53e3-4ab6-b090-20afae604986",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a18c242e5afdc29d30fcec62ab27feba:625afa9e4b0f5f7a485c2138a708120f:96fa359b272e09ee8f18",
+      "mobileMasked": "XXXXXX4330",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:21:00",
+      "recordHash": "06162dc6fff68a9f6f82e995f936814af5fd28b454911910aa21bfc6315e89ed",
+      "suspicious": false
+    },
+    {
+      "id": "fcd09bfd-979f-4245-9de2-f70b883506d8",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "b754b952826114d1d8cc5807d68eb932:2cfdbc905a3c66a54a506ca608338b2b:a95627888f73e2056b99",
+      "mobileMasked": "XXXXXX7687",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 13:37:00",
+      "recordHash": "02fbccd1e3fcfa4da1b4e25842ee3d0b3f19b9414d1785d2ac6dc90d54657b1d",
+      "suspicious": false
+    },
+    {
+      "id": "e4766252-a0f9-4095-9095-646d233336f4",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "f4cb8ebbb4ec3f12ae4ec5ff5ca49c91:0813e04bfb3074c622f6939a5cf30af9:176821c0752ff06770ee",
+      "mobileMasked": "XXXXXX5497",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 14:10:00",
+      "recordHash": "0dee4bcd8437cf754c54c29305c7ab65433ac7484110ad879ecb48f64be49a93",
+      "suspicious": false
+    },
+    {
+      "id": "806d64cb-45ab-4e5f-8bab-dec1797bc3e8",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2e974a830f890ed245393202e9e1dce6:35252393ab643dbb3b3701a360bc008d:aca552188a352dd9eeeb",
+      "mobileMasked": "XXXXXX1164",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 14:25:00",
+      "recordHash": "8e59c738c12d5affde71cf575bfc401cbe771cb781b651e2dd03c9cc51ed7464",
+      "suspicious": false
+    },
+    {
+      "id": "51658919-f26d-42b2-9eaf-8038c9b2a0ef",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2c4a662a8fa6e691acf666cb2c03f0a6:3dec960e8ee1d213749a5b9868b41d28:5811ba5a1a9efcf2b7c6",
+      "mobileMasked": "XXXXXX5582",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:12:00",
+      "recordHash": "4fd4d65e4119faa53178651a0a488489820ff2ccfc0b4eeb6bc272971d6d0835",
+      "suspicious": false
+    },
+    {
+      "id": "20bbc301-b9b1-44b4-93a3-fc247dd5a128",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "79d550059e63a87b1928d279c235102d:fad4658d313a9277ee5462e63d1a0846:0fd8ee69a9fd831dc304",
+      "mobileMasked": "XXXXXX5851",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 12:22:00",
+      "recordHash": "a6283f0ec6e7dd609581c86ae5519df318ed37f016d901ae6875d1f034679a7c",
+      "suspicious": false
+    },
+    {
+      "id": "3dc55659-9f5f-41f0-8dc3-435c97404e73",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2fe28df4349ba15c8a27f9f8300e3a29:ab804f83efd4dafd61b5dc56a3afe20a:ca4431e69d1d77b3614b",
+      "mobileMasked": "XXXXXX2058",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 10:50:00",
+      "recordHash": "04c70ffd228532e1528528f13135c74cddfa9fd9a1ef82b320b6b22037a3c10d",
+      "suspicious": false
+    },
+    {
+      "id": "8d1c1adf-e7fe-4847-b058-58bc6eea0eb6",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "35f99fedcb86f0a02e4fb31470a3c055:a928d15998a2afd431f739b68bb60a1c:bba822581f5ee948b7f5",
+      "mobileMasked": "XXXXXX5955",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 14:22:00",
+      "recordHash": "a94521ff003081a97f514fb9c7d206acadcf1f2ff19ced9053db471be1666774",
+      "suspicious": false
+    },
+    {
+      "id": "4017a0be-9f11-4dc4-91dc-ea3ff967cae3",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "90c82dd72b524886f826975125e51c4b:650d0aed5688692cf8a0a85ff12ceb1b:3b0fe544d1cad4a42546",
+      "mobileMasked": "XXXXXX0078",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 13:02:00",
+      "recordHash": "37a9904a144c42866d49a041e801ac0819fbd7cb66a00d81c59827a3771b4106",
+      "suspicious": false
+    },
+    {
+      "id": "1959af65-a4e1-42d1-a591-877da2294cb3",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a63f2d984532311dab7a6e06ad4f90c3:980854b9b770e5d05006e01412eb0c8a:4624075c0cd94878e8eb",
+      "mobileMasked": "XXXXXX5004",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 12:10:00",
+      "recordHash": "6a71ad886d74504f5327ad9fb28dc69382dfe0ef8722c3419bbe71b8b41140b6",
+      "suspicious": false
+    },
+    {
+      "id": "f3856d68-22fe-4ef1-be95-ba880f2dc567",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "54b0f0b493715cda870b3661b145cce7:8d843a378505f4ae5af0a87f5ada82da:e00194bb5f9e5ea931fe",
+      "mobileMasked": "XXXXXX0677",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:05:00",
+      "recordHash": "3caaa01b06eba4103ad040e241124bf6140c994e0005f348d617610a088a2c3f",
+      "suspicious": false
+    },
+    {
+      "id": "c297a79c-01c0-46c5-91c5-3e4f376c663b",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "e72c52b9ef4623c759f884332fe0ecf6:d0e0f6f1020ed71dddd3214156637557:c5c9e1e5b372700c1986",
+      "mobileMasked": "XXXXXX8870",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 14:03:00",
+      "recordHash": "89117fca38e92eef9a8aac170458d1bfe76d6b099c717f0723faaf596dd0f750",
+      "suspicious": false
+    },
+    {
+      "id": "ffcb7341-a0f1-4c8a-9c78-873eda9ad77b",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "b1cc415b5522edb21ba81f3fb18340aa:aa29daaccafdc5a65e3d19e6b9369994:00fb395212fdbe21da0b",
+      "mobileMasked": "XXXXXX1291",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:53:00",
+      "recordHash": "2fdd41af9e0b857c503de3ef81d6b6ea8c4c51a833aa68315455620104438f5c",
+      "suspicious": false
+    },
+    {
+      "id": "d788cb7d-6452-4a2b-86d9-af50c39c2ebf",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "644d6661d660e36303ec76bd74bda338:1af64a29426caf62781d6fa0a8c5ed5a:0e92bc9a85da9d13d2f0",
+      "mobileMasked": "XXXXXX1801",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 12:36:00",
+      "recordHash": "dced63b49fbb3470c0f53019132957e4de66171abe3af870a8a2e24e18237306",
+      "suspicious": false
+    },
+    {
+      "id": "b1d17a20-d866-4ba2-a157-fea2b3e1d94c",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "f0045dd8442c67cd3a6d31839ce2e095:e6257580b4f3f191ff4633d3fdd9dd3e:3de94c3f7a3e370286dc",
+      "mobileMasked": "XXXXXX7557",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:25:00",
+      "recordHash": "723bd763e509b612400c9025ba1973c9e663b54c4d337aa32af53916853b9a81",
+      "suspicious": false
+    },
+    {
+      "id": "191570c4-3ddc-4c53-8e3b-d0bba74e8d33",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "0498125d5e9f4b37c55d8c3ea6386406:c77406193f9df83723da479c5c237afe:1d8f0c14ee02ee31882e",
+      "mobileMasked": "XXXXXX5637",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 11:45:00",
+      "recordHash": "8f2ad9f852677a73a73bed4262671ef11742db8ebb0168774b0f5b0bd764fc8a",
+      "suspicious": false
+    },
+    {
+      "id": "1790ead0-2b5d-4002-97ab-78800613c11d",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "d369447c8afe55cf2fde03dd30f3fa88:8e125b43e70007d7575ea88b9a0149df:80a9df4e30b7e2494c4f",
+      "mobileMasked": "XXXXXX3471",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:47:00",
+      "recordHash": "0cef1e843d0eeb258044951bae135489e03d107236a11bd4f10d0a64f3678a13",
+      "suspicious": false
+    },
+    {
+      "id": "27dee6c0-a49f-485e-b0e8-7d48f574098e",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "2b57a5ff64cbf11fbd75a380fc162d07:ed21a5e54ce07f417fec2b7c7956af3c:03773d16eea25692d4c2",
+      "mobileMasked": "XXXXXX1698",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 10:24:00",
+      "recordHash": "46c66a2b0f7e33568e86592387ee47a04dd97d11d5ca639b8124df7b57b29db4",
+      "suspicious": false
+    },
+    {
+      "id": "a1ee626e-8c7a-4f38-8543-7ec2371ca464",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "18fd284ef3cd91e8b6279fb4e72b3fd8:fc83278ee6ff657cde299207a00d7138:545d6491e42b89d9d3d4",
+      "mobileMasked": "XXXXXX3499",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 13:02:00",
+      "recordHash": "b329caf8d0193a56aee5899aeb1d9f624c46322f5df87dc874af60f2e109f0a3",
+      "suspicious": false
+    },
+    {
+      "id": "c27f41c3-eb9c-4b57-a869-b6772a5e9fe9",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "1657189850bee2da667aebb4683958fe:11e30c987c6da994588a3c70dd007da5:151338670711a90b06d9",
+      "mobileMasked": "XXXXXX2515",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 12:31:00",
+      "recordHash": "4bf7805bc23b616a63d657e186e03ac97a542f5575a08117ea8cd7673c9b1767",
+      "suspicious": false
+    },
+    {
+      "id": "765ded3f-ec9a-4863-933a-62436cfa8e28",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "e1b66fde6e7161dff9dd660218fdd30d:8abbeab81348f69768887aaed78a35bd:b7f9ab4bd5d773c8112c",
+      "mobileMasked": "XXXXXX1226",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 13:32:00",
+      "recordHash": "a59e2ea91858b324ae7c1bc4252ce29f609cabc74bd489e6b69a73e37ac0fca4",
+      "suspicious": false
+    },
+    {
+      "id": "e2028bce-5fc6-45d3-ab93-2dad026c676d",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ba9f8905eaef5b145d08b54ead3c353d:dfcf274dd654d954755480fda6086a6f:4f13dc351d732aaf9a8b",
+      "mobileMasked": "XXXXXX0090",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 13:12:00",
+      "recordHash": "f03bfc1174901491ea1c71597bbbe37cf839d8be8105ae990da4ebe212130116",
+      "suspicious": false
+    },
+    {
+      "id": "040b5f65-e8f7-4e40-9b51-227a0ed2e632",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "03a347d37f5be35bc97b701f1e960920:b40447f2af5c1242f0972dfafd505bc9:6df4dd6f7d3e27ec6e4a",
+      "mobileMasked": "XXXXXX2217",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 12:47:00",
+      "recordHash": "57a5e30169382fc17dbf75b74d7b59e78431b93db6656e812099651030ad5003",
+      "suspicious": false
+    },
+    {
+      "id": "7a98ade7-2760-467a-844a-44b03979e5cc",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "215e1176d76832f5b09686d920080501:b6cddb103e7f579e1c621c81892301b8:724340f14e12f256474f",
+      "mobileMasked": "XXXXXX9457",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:14:00",
+      "recordHash": "cbc806b5699337180b97db2783213a061befe80ad8fafeaf52b690cb294b6d04",
+      "suspicious": false
+    },
+    {
+      "id": "da36b44a-5c8b-4fd5-8eb5-83fc9a11fe1f",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "d6650ca697347accc10610eee1bc1ecd:153d6ab3ac0cc8f0a713c7392f5d3311:58719db8aa2c2f3ed9c4",
+      "mobileMasked": "XXXXXX4752",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 14:51:00",
+      "recordHash": "d0f9b4e204eed85cb751b73a0f84950975035bbc06a51a5f6cb5eb2a3cc54b47",
+      "suspicious": false
+    },
+    {
+      "id": "4d55c292-b8e8-4a20-a937-0cfc707de9e6",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "ed8a902d99752d7ec2416732b1d8f602:1a4a5c30f69eb83644e242375ed47d2d:09e0a6053b6dfcb33f05",
+      "mobileMasked": "XXXXXX4719",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:10:00",
+      "recordHash": "54399eb299685bf9f1b98ad3855105a39a3edf98abaa0c49fa72eb71859976cf",
+      "suspicious": false
+    },
+    {
+      "id": "0a09a0cf-ad45-4f05-b381-d5b575cd7373",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "5c7f5bfbe97aa312dcf0ba20b841e2db:b4ec796d4299d75cc825e8983ebfc085:d8ecf3ab99bc502fb970",
+      "mobileMasked": "XXXXXX7974",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 10:35:00",
+      "recordHash": "c091a0ad468aaad384666f79715afceb6b3830849b0340338873eb422cbe9610",
+      "suspicious": false
+    },
+    {
+      "id": "c95ce4d5-60bc-4d68-95c5-1a72f4763467",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "7f5e758662cf7830f9dbe7924cfea46d:0c1b05d259a0bad6bdb545d56fbab192:67001a6e8d285bcbee13",
+      "mobileMasked": "XXXXXX6949",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 10:06:00",
+      "recordHash": "89b19362c6e77e9893e6bb62c91520169022c59becbd55905a3a96eb314ba6a7",
+      "suspicious": false
+    },
+    {
+      "id": "81f0d3a6-e7db-4f40-8024-06f367a5ee31",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "afd3af044558abdd3f1affb52d5cc6c9:d19a6b2871d0a6ea56995db6c23abebd:b6feca4ae9cf2b07559a",
+      "mobileMasked": "XXXXXX3191",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 14:44:00",
+      "recordHash": "40894234451aeda75b3ed32886e0d7a07c49fcf0d8352971ce6ec4e54d462bc1",
+      "suspicious": false
+    },
+    {
+      "id": "cf61219f-64f7-47f6-b3d4-952aba1a562d",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "NORMAL",
+      "mobileEncrypted": "a37b4b8000f5e20c0cf53f09f8e2185d:00495c10e3dc34bfc58425ef8a72946b:05b29b6bb35d74dfaa80",
+      "mobileMasked": "XXXXXX9474",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 13:04:00",
+      "recordHash": "587242ff6d7f0903df1d770c1eb73b3e0a4c023a5abb4679b2b7e75ff5f5c38f",
+      "suspicious": false
+    },
+    {
+      "id": "60dc8af7-9f1c-4e7f-b67c-7bc0a196a66b",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "efe55e52be4e56ef1eca21c351d71488:c0e32bef6fd9c86e9ff99c650d216974:d50dfd5d73cc8bd485bd",
+      "mobileMasked": "XXXXXX1234",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:30:00",
+      "recordHash": "4414775949878fe9f3115494d6fcd6e72fcf89e51b2a2677b1b436ecf578055b",
+      "suspicious": false
+    },
+    {
+      "id": "26d911ac-033f-4b8f-a5a6-2583eb6091b2",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "cb605f621fa98de59b07f023803e7e9b:fd8173c24de6c7f47bd9d2c97211090f:8504ef8f9ba0e476ad30",
+      "mobileMasked": "XXXXXX1234",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:00:00",
+      "recordHash": "e174c859db95a0fe412ecabb330c48bf9c57173e5a06b0257050a2087d57f82a",
+      "suspicious": false
+    },
+    {
+      "id": "7019b24c-6e95-4262-9387-ebfe1cffea5a",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "91a49c40e4a8340f2930504de4769f4f:f35a37d1a881cb4e6eb6794a7d98597e:98f2627156c56701ef54",
+      "mobileMasked": "XXXXXX1234",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:30:00",
+      "recordHash": "7d3c51df4f2d2c89413a2aa9504cb44c717b357810a8c5561878d6986ada5cf7",
+      "suspicious": false
+    },
+    {
+      "id": "ffe316ee-3d02-4028-b58d-a75c8ba1d792",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "cd873d395154346cfb8b3d78a88dd33c:c9e42fcc14f6d688c9c71f09f175277e:ac7cf264db24c6eda6b7",
+      "mobileMasked": "XXXXXX1234",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 12:00:00",
+      "recordHash": "dbc2cf1ee372240a182b718e2d41c06f6b037f79ff4802538245fa252e604867",
+      "suspicious": false
+    },
+    {
+      "id": "de687972-2b0d-406c-9fc2-7a19cfff6d60",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "f6295b57169282168366cbe4a50a09c5:a6d38062927b8cc250798b905eadbf5e:26138705071704d25180",
+      "mobileMasked": "XXXXXX5678",
+      "towerId": "TWR101",
+      "location": "Cyber Hub",
+      "lat": 19.15,
+      "lng": 72.85,
+      "timestamp": "2026-03-02 10:30:00",
+      "recordHash": "69c60aad3fa55d9be9a0a1a5c626b1524a978379a21e60e6773e423d6bf31f10",
+      "suspicious": false
+    },
+    {
+      "id": "5e36681c-653d-42fe-a518-392a1d73bc46",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "4264da2027571f2bcef5d43879fada5e:0c0022a7d01b02bfeaff45d2000b600f:8f8f276c4722c27c2843",
+      "mobileMasked": "XXXXXX5678",
+      "towerId": "TWR102",
+      "location": "Tech Park",
+      "lat": 19.14,
+      "lng": 72.83,
+      "timestamp": "2026-03-02 11:00:00",
+      "recordHash": "1e8aecc4c38065c0f3c3659bc0822fed1b541c4fd3c8909230aa7dee6e86c17b",
+      "suspicious": false
+    },
+    {
+      "id": "2878d465-c021-43ff-aba5-87e55e16fce3",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "038c6eeee933fadd70542b95c28c9305:c75b54e2045bdba917e9cb56c4b0b1fe:50a316e716ec6cc4fdad",
+      "mobileMasked": "XXXXXX5678",
+      "towerId": "TWR103",
+      "location": "City Plaza",
+      "lat": 19.13,
+      "lng": 72.82,
+      "timestamp": "2026-03-02 11:30:00",
+      "recordHash": "771f6fed50636fc2a0023c2e20c7d5922c5165b7ca8c7cb6b0c866295877f3f3",
+      "suspicious": false
+    },
+    {
+      "id": "63387bc1-4ee3-40d8-bd23-8897536d28e1",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "sourceDatasetId": "SUSPECT",
+      "mobileEncrypted": "ffeddbad30ce82a90d1714080232ccbe:f1da11099c3bd84d3c455258c54e9a9d:39582521c559385ebc64",
+      "mobileMasked": "XXXXXX5678",
+      "towerId": "TWR104",
+      "location": "Green Valley",
+      "lat": 19.12,
+      "lng": 72.81,
+      "timestamp": "2026-03-02 12:00:00",
+      "recordHash": "7573ccfe77c02d757a1b8f4dcf04908e80d77732997c2aa0827a62ff0303cbd5",
+      "suspicious": false
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "26eb551c-aae5-4973-9e6e-88a4c62d5a83",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T08:22:43.037Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "f200b9a1-d8c3-4c95-8ac1-f9d37228982f",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T08:21:25.708Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "3037361c-d2bf-435a-8bed-c5f8ba08dd9f",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T08:21:25.689Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "1c8b9b36-a06c-4477-b77d-48eafdf7aa3a",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T08:21:25.671Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "5b27061f-8eaf-4376-a193-35c295e8ea71",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T08:19:17.120Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8650af1b-dea2-4c2d-bfb3-5f60c95b5483",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T08:19:17.099Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "72d0e145-1cc1-468e-88c2-89279f48ddc2",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T08:19:17.082Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "a3b3d8da-220a-471b-a30f-ba48a8f4a4a8",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T07:41:37.433Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "de4e761c-51dd-4169-a356-d50934378ca5",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T07:41:23.681Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "d0d029b0-2e45-409c-a7f0-0d79cf678cda",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T07:41:04.228Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8b46ea96-8383-424c-8f4c-211f0a97c94e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T07:41:04.188Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "6f8516e4-05b6-4cc7-8c0b-890ff2f39bc2",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T07:41:04.172Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "0bbc21fd-bfce-43f4-9aeb-246b2d20d299",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "79fa51d4-047b-406c-bef4-1ed62918d291",
+      "timestamp": "2026-03-30T07:41:04.151Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 3015,
+        "flagsDeleted": 0
+      }
+    },
+    {
+      "id": "678f9ba6-813f-456d-999b-40cefb708dcc",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-30T07:40:52.921Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "99dc45b5-50e5-411f-8913-a98ae1e0d4d5",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "79fa51d4-047b-406c-bef4-1ed62918d291",
+      "timestamp": "2026-03-30T07:40:52.800Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "bb8f6830-a917-4ed5-aa74-feb3080062c9",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T07:40:52.624Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "ab712434-a11b-4d81-8236-4c83883eb0d9",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-30T07:40:52.406Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "6235d015-7763-4977-8245-189fa80605da",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T16:35:20.671Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "4c9ddbfe-2d1b-4599-974b-5a870a711cbf",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "79fa51d4-047b-406c-bef4-1ed62918d291",
+      "timestamp": "2026-03-29T16:35:20.628Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "acdd5862-8d19-484f-8e28-dd9cf4a1cd5d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T16:35:20.565Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "772575f2-bacc-4547-a862-c06c0b9e217a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T16:35:20.494Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "075d8fd5-5425-4079-845b-108d1ae3e5ef",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "79fa51d4-047b-406c-bef4-1ed62918d291",
+      "timestamp": "2026-03-29T16:35:20.442Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_dataset_large.xlsx",
+        "validRecords": 3015
+      }
+    },
+    {
+      "id": "2d39b42a-6cd6-410e-8e63-c13ed45a1251",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload.infected",
+      "target": "malware_dataset_FIXED.csv",
+      "timestamp": "2026-03-29T16:34:35.070Z",
+      "ip": "::1",
+      "status": "denied",
+      "meta": {
+        "scanDetail": "EICAR antivirus test signature detected"
+      }
+    },
+    {
+      "id": "b5361863-3b8e-4ebb-b4ac-deecc68b5d8c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:28:12.652Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "24106d92-15bb-48ff-bfed-86ee210885f9",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:28:00.568Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "f303d0f6-f8c9-479a-9966-2c935a53b600",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:27:01.331Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "ade67192-bd04-41df-8785-f778f2163b36",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:27:01.322Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "5fb9d291-3076-4560-9fdd-6444811053ca",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:27:01.310Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "0bd3db8d-700b-405f-ac61-0ea1113b3977",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-29T15:25:53.193Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+        "matches": 4
+      }
+    },
+    {
+      "id": "141d34bf-bfca-4268-81a9-a059906252ed",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.detect_suspicious",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:24:09.984Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "4af58d64-cd8e-448b-ac95-e11ff6b643fc",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:24:00.373Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "7af9bd5c-88f5-47e5-9392-767023379983",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:23:30.877Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "036fb7d8-ce46-4d1d-a385-ea1f72e5090b",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:23:30.868Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "963fdc20-4b98-432e-8c42-668064a4fd82",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:23:30.860Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "58ca8169-cf0b-4859-aa78-70673f47ade2",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:22:27.852Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "ad2b56f8-b7ca-403c-a585-d459499c37d6",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:22:27.842Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "29342c90-461d-4db1-b7da-8be81ac7b18e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:22:27.831Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "cadceec4-b962-4335-8bec-f2fb7fc6917d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "timestamp": "2026-03-29T15:22:27.821Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_small_dataset.xlsx",
+        "validRecords": 108
+      }
+    },
+    {
+      "id": "606e1eb6-79dc-4d6d-8ca1-0c349798dc15",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:39.805Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "6aeedb92-43b6-4885-a202-deb889f97ad4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:39.794Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "fd499d5f-ca33-48ee-a4b8-ce78dfe64516",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T15:15:39.783Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 108,
+        "flagsDeleted": 3
+      }
+    },
+    {
+      "id": "7cafba8a-aeab-46ce-ba64-1803996eb8b9",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T15:15:36.470Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "c3f8a09a-f3c1-4f88-a409-5f55ef7a54e5",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:36.462Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "6e360685-6aa3-493c-809d-2db2287ae819",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:36.455Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "a50037fb-3577-4998-9422-2aab45ee1d7e",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T15:15:20.659Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "60700654-37d1-43bd-a1a9-5fda16ccb1f1",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:20.651Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "76072371-885e-4d20-8fcd-651e01a1cbb9",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T15:15:20.644Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "a80cfd33-92b0-46ab-9088-da8185010755",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-29T14:50:22.712Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+        "matches": 4
+      }
+    },
+    {
+      "id": "151cb056-2a74-4242-bf4a-73f1997135e1",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.detect_suspicious",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:50:17.504Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "bdda55dc-cdbc-4b60-928a-5a06e80a69d8",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:50:07.034Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "5fd3f9a8-b55d-48d4-acd6-31599f80c065",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:49:46.691Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "f9706ad0-247f-4631-a3b4-a8cd57fd0b58",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:49:46.684Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "b13fffcf-9b75-42c8-8a1a-389984f6e7c8",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:49:46.677Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "33abdfc6-c666-49d3-9d67-355a6d0a0349",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-29T14:47:41.402Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+        "matches": 8
+      }
+    },
+    {
+      "id": "093c5ffb-5ad3-4059-87ae-14fcbe9f1fa2",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:47:31.434Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "82ffe586-d11a-4e82-b92c-6d6cfef788aa",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:47:07.564Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "24031f25-a3bd-4997-9d0e-154d6af3787b",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:46:58.384Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "1c2c1813-031e-444e-8dbd-926be5269ca2",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:46:39.809Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "271746fc-43b1-48ab-82fd-7a674262d31d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:46:39.799Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "298a44d4-4190-4853-a9f9-537886791309",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:46:39.790Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "f96c1452-318e-43e7-8825-9561c4b9bdd1",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "c6ef9a24-bd58-4c6c-963b-e588ac55e320",
+      "timestamp": "2026-03-29T14:46:39.781Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_small_dataset.xlsx",
+        "validRecords": 108
+      }
+    },
+    {
+      "id": "bfa86297-3bd4-4844-8862-ca5524ef0b8f",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:45:58.598Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "5c9266e3-c093-43ca-b49b-5e6ebf4ea58f",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:45:58.587Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "77604d03-59f0-4094-990b-c359db4ac940",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:45:58.576Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 108,
+        "flagsDeleted": 0
+      }
+    },
+    {
+      "id": "691af252-0315-4024-af3f-a34ef3826986",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:45:52.429Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8194cc4a-1461-41c8-aa0d-43fbedd905f6",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:45:52.420Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "fe5eef8d-7ff0-42d1-8239-4665ee77d12a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:45:52.394Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "5331d561-d2e9-4d95-9c39-345d90c55746",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:24.248Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "713560e4-d545-4bdf-9caa-25f753106e6c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:24.123Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "1a77bd50-0a26-4cb3-9b0c-e9d879db9994",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:23.973Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "ab2389a3-2ae4-421d-95b0-ce59c060fa66",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:23.105Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "0984abc9-ca3f-43d3-b083-42b9a267e779",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:22.216Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8ec96950-cf0a-4212-ac5f-104142da670d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:36:18.156Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 29
+      }
+    },
+    {
+      "id": "35a541ec-f5e6-42bb-afe2-9f2e349dee44",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:35:51.167Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "517e1126-f9e9-4639-9db7-f02c5d601d99",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:35:51.154Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "420d9c14-3744-40e9-9381-d3bf651f7e82",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:35:51.141Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "43124554-a225-4f11-ba29-dd2de7b86e65",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "cb47eea9-eed5-4949-a914-8d43edd46a88",
+      "timestamp": "2026-03-29T14:35:51.132Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_small_dataset.xlsx",
+        "validRecords": 108
+      }
+    },
+    {
+      "id": "d48e0189-68f9-4a36-b40f-aa88086d1ea0",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:34:57.237Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "5cfcb38f-d267-4040-866c-d74f96481aa3",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T14:34:57.190Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "611754be-26ea-430f-b01d-9cc22180967e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-29T14:34:57.179Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 108,
+        "flagsDeleted": 3
+      }
+    },
+    {
+      "id": "54641c30-6e3b-4618-91f6-a5de9cef13e8",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-29T12:55:53.309Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "9c4a84e0-662a-48fc-a3cf-20ab01d24ef5",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T12:55:53.294Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "7b84d9f6-3298-43c7-9483-86ddfea93e3d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-29T12:55:53.286Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "0c1a2f3f-3aab-4a04-bc39-bffb34348177",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:15.028Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "d6f069e5-d61e-4c8f-a8b8-4087db9c751a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:08.306Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "4d22fde5-cce3-4c74-b3a3-79cba2b5e47f",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:08.074Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "2d298ce0-be58-4582-8d56-d9b5712a5222",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:07.951Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "1c7d9dcb-d49c-4e38-9b10-1680163c20f4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:07.816Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "cb1742be-f97e-4025-9f00-ac1db5884a18",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:07.618Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "99f04bc0-59e2-4e0f-8137-e52d4ec087a8",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:06.598Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "b9ff1901-0489-4451-8202-a02520fa5f48",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T15:00:00.334Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "cb2a4d3e-2e6f-4c3d-ba52-f03915c98769",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T14:59:55.585Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 34
+      }
+    },
+    {
+      "id": "68f4d88a-4f93-4693-937e-98d2d4e2675e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-19T14:59:34.816Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+        "matches": 8
+      }
+    },
+    {
+      "id": "586ff4af-05ed-4efc-9b96-cc0c32871f98",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T14:59:22.890Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "85194876-5126-49e8-a19f-aaa38d0149a6",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-19T14:58:50.029Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "dad99226-b6ec-41ce-bc90-bf9ed96bf447",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-19T14:58:50.005Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "e41ec2a6-84cb-4498-bfea-9d92cabfaa38",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-19T14:58:49.995Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "80d2e8b3-4d95-45e4-a13e-bd835605895b",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-17T08:39:06.646Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+        "matches": 8
+      }
+    },
+    {
+      "id": "2bf96c9b-a3d0-4a65-92ab-022ee74db640",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-17T08:39:03.131Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "d4b7d6a5-95d2-46d0-89f0-e6cf44b17a26",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-17T08:38:53.835Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "cc6447dc-5e7e-4347-91da-89f0bba5bc02",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:38:53.818Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "c3f318c6-6065-4fe0-8185-d1f159408153",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:38:53.807Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "0f4779a1-bc9f-4b11-b481-f2c8a8603a9d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-17T08:28:10.434Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "bfeb638a-adbb-4804-a020-f67cd6cf4fe3",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:28:10.407Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "f649e65f-dfcc-4e3f-9b95-ac8326db6525",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:28:10.379Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "a45ae8d9-38eb-4626-8224-da320ecf38ea",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "a66ba20e-c5e6-4274-8608-7f7bc792f811",
+      "timestamp": "2026-03-17T08:28:10.360Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_small_dataset.xlsx",
+        "validRecords": 108
+      }
+    },
+    {
+      "id": "b1c4dc66-3fcb-43ae-8540-a70ba4e639e2",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:27:45.005Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "d92432a5-ff24-49d3-8127-330c811cb8ed",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:27:44.948Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "4fd8e460-3225-42bd-830c-6e1b107b19b6",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:27:35.776Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 108,
+        "flagsDeleted": 3
+      }
+    },
+    {
+      "id": "df757ffe-b864-4bd8-b279-fb11cb92715e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:50.291Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "698baa8a-5124-41a7-8b4b-6978e3af1790",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.214Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "cca5d03b-7572-4f6a-8c59-030b4f4f79f3",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.194Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "c9ecc84e-02f3-4469-9622-0d0332e19cb4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.177Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "4e8a4455-0751-4944-b7dc-6da1b3d30715",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.157Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "7398452f-9fd4-4b6f-b9e4-64355c6c42d4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.136Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "92c16d5a-f8e6-4fe9-b638-7a464100770a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.116Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "3bdb854d-2590-48d6-878a-69d214c5e12c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.100Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "9089f3cb-8ae4-46b0-9587-5be4553a9893",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:20:24.077Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "53ac9f0a-fad6-45ae-af35-e944807a0ac7",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:19:31.553Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "6def05e7-4dff-4bec-9bf8-183e330afeb4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:19:27.225Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "2cbd875d-b562-46b2-8d61-8383f76df2d8",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.track",
+      "target": "XXXXXX1234",
+      "timestamp": "2026-03-17T08:19:11.282Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+        "matches": 8
+      }
+    },
+    {
+      "id": "72f1bd0e-9689-4b36-b7a5-8af55ce70336",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:19:04.793Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 3
+      }
+    },
+    {
+      "id": "02595c9c-fad3-4d12-a549-a6d11b322f2e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:18:57.514Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8d78391d-ce5d-4128-bf59-452df8eb3703",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:18:57.492Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "9311c0a2-f7e9-42be-b4d3-57fcf5088108",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:18:57.473Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "d56973d0-f0ec-444e-90f2-868fe79d216c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.delete",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T08:18:57.455Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "recordsDeleted": 3015,
+        "flagsDeleted": 304
+      }
+    },
+    {
+      "id": "15b6ddbc-2db2-4cf1-ac92-33d1329eb00e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:18:40.147Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "f597a020-7b63-417b-935e-7111c625bb83",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:04.663Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "555f611b-c218-441a-8e6f-f2467c087ef7",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:04.449Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "b7fd14ce-812c-4745-95a8-ea1bbb0bd2c4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:04.289Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "8693b45b-4430-4e50-956f-968f41ebdd90",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:04.162Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "9b2a25b5-01b2-4d12-8e24-596e56a8bcda",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.860Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "15b7694f-710b-4680-9efe-a4e865a5d0f7",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.620Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "0cc68325-a017-4b7e-be5e-ad9d9ba2ed0a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.457Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "e7391f0f-3283-4381-82dd-7fa3597997f4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.315Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "bea6e537-3a32-4c8f-835f-0e4be991a669",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.175Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "5c9374b2-f748-46d7-89c8-db93f397357e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:03.024Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "566c6a7c-17f5-4329-9adc-7226e61f40e4",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:02.919Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "f30d1946-8f78-4894-9078-5369e04efa34",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:02.798Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "44288888-11e6-44dd-a8bc-f8af09d19c4d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:02.632Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "9a32fddc-c9ac-401d-87ad-e3332d2be9f3",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.780Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "b847e954-58bf-4ac2-874a-05eabdf4dfa5",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.584Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "83f72ee0-6fcf-4287-8a3a-9e05e9ea9afa",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.454Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "3f1c4ba9-8046-4f41-b886-435708c0dfea",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.328Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "10ac8e98-b2ea-4d48-ab5f-6a060ad5684a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.173Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "1b78285e-35ef-4e50-824f-d02921ed8d05",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:01.048Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "0bb20148-a48f-4223-bc50-d082da7b83ce",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:00.907Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "b4b8ff40-e7aa-408e-96e0-6e3d0c1e740c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:00.774Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "916b59ef-d8ed-4405-b513-2c4022238c1d",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:16:00.626Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "e19c69e4-086b-4945-8eab-3fe64d5cfffd",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:15:59.515Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "2fdd68ee-120b-48e4-ba91-334f9e69def1",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:15:53.938Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 34
+      }
+    },
+    {
+      "id": "982d6ef3-1e62-4276-8a66-d8997a68acaa",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T08:15:41.665Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "ed523080-3c07-44fa-aba6-a1f27c0e65a9",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:15:41.511Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 108
+      }
+    },
+    {
+      "id": "af0ab8a6-e293-4787-8142-f4df6ef2d086",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:15:41.328Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "ce0249e4-1a53-4ced-9dc6-7722636c0b31",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:15:41.208Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "715a3be9-0b9f-49f0-9957-9a70f7dec244",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "7a5af077-a6b4-4eb8-9b6f-17d3db912eab",
+      "timestamp": "2026-03-17T08:15:41.051Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_small_dataset.xlsx",
+        "validRecords": 108
+      }
+    },
+    {
+      "id": "37b80a1f-c855-4b66-be57-809c6865a684",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T08:15:06.837Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "88d943a5-d36c-4f06-b093-4d649b94027a",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:15:06.671Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "da4d77ac-77b2-47b9-9a54-b464409ebf91",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:15:06.564Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "122dcef3-8406-46d3-90b0-22a75af0c1ba",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T08:01:33.775Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 579
+      }
+    },
+    {
+      "id": "681107fd-274a-4b43-9098-95cd804ee799",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T08:00:59.913Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "4646d7ec-46b5-4a59-92ff-927408b0312b",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:00:59.768Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "8d5b9387-f9e6-4406-9ef9-a51be1973e63",
+      "userId": "LNfYU03G4keXrrWLEJGp46yCO4m1",
+      "email": "akpgotaway@gmail.com",
+      "role": "investigator",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T08:00:59.625Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "fa05114b-288f-46c7-b06b-b172552488ce",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T07:59:58.127Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 600
+      }
+    },
+    {
+      "id": "c0ebe6fc-5dae-4175-b8dc-ce81d5dbd44e",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.track",
+      "target": "XXXXXX5670",
+      "timestamp": "2026-03-17T07:58:49.544Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "datasetId": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+        "matches": 7
+      }
+    },
+    {
+      "id": "7c890fa6-190f-4aba-97d8-cad8f8cdb822",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.detect_suspicious",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T07:57:58.218Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "flagsFound": 304
+      }
+    },
+    {
+      "id": "aea627c4-77e1-4ef6-a042-5368e06de885",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "analysis.records.fetch",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T07:57:42.032Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "count": 1000
+      }
+    },
+    {
+      "id": "00c814e9-41bd-48a6-b52b-be30aa9e1fbd",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T07:57:41.858Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "f30a8a34-294d-416a-89c1-a87ffad78c2c",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T07:57:41.651Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "7b0d613b-ef6a-4c12-91d8-f3ece3bfe0bf",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "dataset.upload",
+      "target": "cd82ad4c-0032-4326-a74b-ba8fe8c1a26d",
+      "timestamp": "2026-03-17T07:57:41.526Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {
+        "fileName": "tower_dump_dataset_large.xlsx",
+        "validRecords": 3015
+      }
+    },
+    {
+      "id": "12469ebc-ece9-4c12-b03e-e489a7d0fe82",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T07:57:10.270Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    },
+    {
+      "id": "c3e0c406-a5dd-4668-96db-1adf5f57a529",
+      "userId": "GD7PkqmJqZMEywSttjt8ST5gURk1",
+      "email": "patilastha1104@gmail.com",
+      "role": "admin",
+      "action": "datasets.list",
+      "target": "",
+      "timestamp": "2026-03-17T07:56:58.200Z",
+      "ip": "::1",
+      "status": "success",
+      "meta": {}
+    }
+  ],
+  "suspicious_flags": [
+    {
+      "id": "a8608e4b-deea-4e1c-8a22-82244cc89935",
+      "mobileMasked": "XXXXXX9742",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "locations": [
+        "Green Valley",
+        "Cyber Hub"
+      ],
+      "count": 2,
+      "reason": "Appeared in 2 distinct locations within 24h",
+      "flaggedAt": "2026-03-30T07:41:23.674Z"
+    },
+    {
+      "id": "09a8e758-f223-4de1-948b-3d4f0a7794fe",
+      "mobileMasked": "XXXXXX1234",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "locations": [
+        "Cyber Hub",
+        "Tech Park",
+        "City Plaza",
+        "Green Valley"
+      ],
+      "count": 4,
+      "reason": "Appeared in 4 distinct locations within 24h",
+      "flaggedAt": "2026-03-30T07:41:23.674Z"
+    },
+    {
+      "id": "554c0f90-0beb-4c22-9134-7db0a24f34a0",
+      "mobileMasked": "XXXXXX5678",
+      "datasetId": "1988eab8-4155-4dab-bfbb-04d2e135bbb1",
+      "locations": [
+        "Cyber Hub",
+        "Tech Park",
+        "City Plaza",
+        "Green Valley"
+      ],
+      "count": 4,
+      "reason": "Appeared in 4 distinct locations within 24h",
+      "flaggedAt": "2026-03-30T07:41:23.674Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "csproject",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --port 1235 --open",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^12.10.0",
+    "parcel": "^2.16.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
