@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBwAAccPuDmrYiQDWvly0Tgnj6y316dOoo",
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: "towerdump-5ffe7.firebaseapp.com",
   projectId: "towerdump-5ffe7",
   storageBucket: "towerdump-5ffe7.firebasestorage.app",

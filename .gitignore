@@ -3,3 +3,4 @@ node_modules/
 dist/
 server/service-account.json.json
 .env
+.env
